@@ -83,19 +83,19 @@ p,
 author{
   /* font-family: 'Lato', Verdana, Calibri, sans-serif; */
   font-family: 'Lato', Calibri, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   color: #777777;
 }
 
 a{
   /* font-family: 'Lato', Verdana, Calibri, sans-serif; */
   font-family: 'Lato', Calibri, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 strong {
   font-family: 'Lato', Calibri, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   color: #333333;
 }
 
@@ -107,7 +107,7 @@ heading {
 
 papertitle {
   font-family: 'Lato', Calibri, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 700;
   color: #333333;
 }
