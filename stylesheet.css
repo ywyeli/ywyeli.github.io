@@ -79,12 +79,19 @@ body,
 td,
 th,
 tr,
-p,
+p{
+  /* font-family: 'Lato', Verdana, Calibri, sans-serif; */
+  font-family: 'Lato', Calibri, sans-serif;
+  font-size: 15px;
+  color: #777777;
+}
+
 author{
   /* font-family: 'Lato', Verdana, Calibri, sans-serif; */
   font-family: 'Lato', Calibri, sans-serif;
   font-size: 15px;
   color: #777777;
+  white-space: nowrap;
 }
 
 a{
