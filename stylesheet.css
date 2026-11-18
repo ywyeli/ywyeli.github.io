@@ -113,6 +113,8 @@ heading {
 }
 
 papertitle {
+  display: block;
+  margin: 0 0 1em;
   font-family: 'Lato', Calibri, sans-serif;
   font-size: 15px;
   font-weight: 700;
